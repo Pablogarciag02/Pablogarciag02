@@ -1,4 +1,4 @@
-[banner](readmeBanner.png)
+(readmeBanner.png)
 
 
 <!--
